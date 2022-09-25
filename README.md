@@ -17,7 +17,7 @@ de Liskov, princípio da segregação da interface e o princípio da inversão d
 
 # Como executar o projeto
 
-# Foi utilizada a IDE Visual Studio 2022
+Foi utilizada a IDE Visual Studio 2022
 
 # Clonar repositório
 git clone https://github.com/lombaAnderson/PaymentContext
